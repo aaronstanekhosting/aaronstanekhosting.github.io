@@ -1,3 +1,5 @@
 https://bugfix.aaronstanek.com
 https://bugfix.aaronstanek.com/coins
 https://bugfix.aaronstanek.com/coins/about.html
+https://bugfix.aaronstanek.com/gen-show
+https://bugfix.aaronstanek.com/gen-show3
