@@ -1,5 +1,6 @@
-https://bugfix.aaronstanek.com
-https://bugfix.aaronstanek.com/coins
-https://bugfix.aaronstanek.com/coins/about.html
-https://bugfix.aaronstanek.com/gen-show
-https://bugfix.aaronstanek.com/gen-show3
+https://dev.aaronstanek.com
+https://dev.aaronstanek.com/coins
+https://dev.aaronstanek.com/coins/about.html
+https://dev.aaronstanek.com/gen-show
+https://dev.aaronstanek.com/gen-show3
+https://dev.aaronstanek.com/password-panel
